@@ -1,0 +1,59 @@
+body {
+	text-align: center;
+	background-color: #c4b7a6 ;
+	color:  #618685;
+}
+
+
+.create-column {
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+	margin: 0;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: #3e4444;
+}
+
+.column-container {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.column {
+	float: left;
+	text-align: center;
+	margin: 0 auto;
+	text-transform: uppercase; 
+	color:  #618685;
+	border: solid #3e4444 5px;
+	min-height: 300px;
+}
+
+.column h2 {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.btn-delete {
+	font-weight: bold;
+	font-size: 14px;
+	color:  #618685;
+	margin: 5px;
+	background-color: #e6e2d3;
+	float: left;
+}
+
+.add-card {
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+	margin: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: rgba(58,70,120,1);
+}
+
+.column-card-list .card  {
+	list-style: none;
+}
