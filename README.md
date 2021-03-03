@@ -4,4 +4,4 @@ Kanban Board Application which allows to add new column and new cards within thi
 
 Technologies: HTML5, CSS3, JavaScript, JQuery
 
-![](kanban.gif)
+![](kanbanBoard.gif)
